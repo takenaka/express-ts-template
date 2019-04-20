@@ -1,4 +1,4 @@
-# Express + TypeScript Templat
+# Express + TypeScript Template
 
 ## Project setup
 ```
